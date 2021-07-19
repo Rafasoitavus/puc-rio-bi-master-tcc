@@ -10,3 +10,5 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 ---
 
 ### Resumo
+
+O objetivo deste trabalho é realizar uma prova de conceito para criação de um modelo capaz de prever o resultado de processo administrativo fiscal no [Conselho Administrativo de Recursos Fiscais - CARF](http://idg.carf.fazenda.gov.br/)
