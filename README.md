@@ -17,7 +17,7 @@ O objetivo deste trabalho é realizar uma prova de conceito de desenvolvimento d
 
 ### Abstract
 
-The purpose of this paper is to design a proof of concept for model development capable of predicting the result of tax administrative proceedings at the [Conselho Administrativo de Recursos Fiscais - CARF] (http://idg.carf.fazenda.gov.br/). To do so, it was necessary to manually extract an initial load of sentences, as well as classify them into three classes of provision of appeals: full yes, partial yes and denied. Then, the data were submitted to pre-treatment so that a better data analysis was possible. With the import of new data and improve accuracy in predictions, this model can be consumed by other applications, helping tax managers in data-based decision making. 
+The purpose of this paper is to design a proof of concept for model development capable of predicting the result of tax administrative proceedings at the [Conselho Administrativo de Recursos Fiscais - CARF](http://idg.carf.fazenda.gov.br/). To do so, it was necessary to manually extract an initial load of sentences, as well as classify them into three classes of provision of appeals: full yes, partial yes and denied. Then, the data were submitted to pre-treatment so that a better data analysis was possible. With the import of new data and improve accuracy in predictions, this model can be consumed by other applications, helping tax managers in data-based decision making. 
 
 
 ---
